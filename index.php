@@ -997,7 +997,7 @@
 <!-- Footer -->
     <!--/.Copyright-->
 
-  </footer>
+ 
   <!--/.Footer-->
 
     <!-- SCRIPTS -->
